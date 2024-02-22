@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleLoginFirebaseKotlin</string>
+    <string name="default_web_client_id">AIzaSyA_YLvsArmGtE63wCjbWmoIkYzWAV78OSI</string>
+</resources>

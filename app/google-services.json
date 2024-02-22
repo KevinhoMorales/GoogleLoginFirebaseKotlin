@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744832554057",
+    "project_id": "loginfirebasekotlin-c6593",
+    "storage_bucket": "loginfirebasekotlin-c6593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744832554057:android:b483626b65322b684f5b98",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.googleloginfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YLvsArmGtE63wCjbWmoIkYzWAV78OSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
